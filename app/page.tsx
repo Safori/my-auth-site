@@ -8,7 +8,7 @@ export default function Home() {
       </p>
 
       <p>
-        目前的功能室用户可以注册账号，登录后进入网站内部页面。
+        目前的功能是用户可以注册账号，登录后进入网站内部页面。
       </p>
 
       <div style={{ marginTop: 20 }}>
