@@ -30,16 +30,16 @@ export default function DashboardPage() {
 
   return (
     <main style={{ padding: 40, fontFamily: 'Arial, sans-serif' }}>
-      <h1>欢迎进入网站</h1>
+      <h1>欢迎进入张栋老师的网站</h1>
 
-      <p>你已经成功登录。</p>
+      <p>您已经成功登录。</p>
 
       <p>
         当前账号：{user?.email}
       </p>
 
       <p>
-        这里是登录后才能看到的页面。以后你可以在这里放文字、资料、图片或其他内容。
+        恩情如山，永远铭记。
       </p>
 
       <button onClick={handleLogout} style={{ padding: 8 }}>
